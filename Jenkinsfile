@@ -7,15 +7,5 @@ pipeline {
             }
         }
 
-        stage('Test1'){
-            steps{
-            }
-        }
-
-        stage('Test2'){
-            steps{
-            }
-        }
-
     }
 }
